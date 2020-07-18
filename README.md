@@ -1,16 +1,18 @@
-### Hi there 👋
+## Welcome to my profile 👋
 
-<!--
-**Dizeeee/Dizeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website](https://jackmal.com) | [Resume](https://github.com/Dizeeee/resume/blob/master/jackmalcom.pdf)
 
-Here are some ideas to get you started:
+There's a lot of code that doesn't get published here, but you can poke around my pinned repos and hackathon projects to get a sense of what projects I like working on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I like
+- Rust
+- Dart
+- Flutter
+- Node
+- Webassembly
+
+### Topics I'm interested in
+- Networking
+- Graphics
+- Blockchain
+- Mobile
