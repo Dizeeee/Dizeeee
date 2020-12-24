@@ -2,17 +2,20 @@
 
 [Website](https://jackmal.com) | [Resume](https://github.com/Dizeeee/resume/blob/master/jackmalcom.pdf)
 
-There's a lot of code that doesn't get published here, but you can poke around my pinned repos and hackathon projects to get a sense of what projects I like working on.
+I work on a lot of hobby projects, most of them aren't public. Feel free to poke around though, I have code from previous hackathons and various little experiments.
 
-### Stuff I like
+### Stuff I think is cool
 - Rust
-- Dart
+- React
 - Flutter
-- Node
-- Webassembly
+- Docker
+- Node.js
+- Literally anything that isn't Drupal
 
 ### Topics I'm interested in
+- Backend
 - Networking
 - Graphics
-- Blockchain
 - Mobile
+- Game Dev
+- Bleeding edge web dev
